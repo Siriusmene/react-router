@@ -36,6 +36,6 @@
     "react": "catalog:react-canary",
     "react-dom": "catalog:react-canary",
     "react-router": "workspace:*",
-    "react-server-dom-webpack": "catalog:react-canary"
+    "react-server-dom-webpack": "19.2.4"
   }
 }
