@@ -30,11 +30,11 @@
   "dependencies": {
     "@mjackson/node-fetch-server": "0.6.1",
     "compression": "^1.8.1",
-    "express": "^4.21.2",
+    "express": "^4.22.0",
     "react": "catalog:react-canary",
     "react-dom": "catalog:react-canary",
     "react-router": "workspace:*",
-    "react-server-dom-webpack": "catalog:react-canary",
+    "react-server-dom-webpack": "19.2.4",
     "remix-utils": "^8.7.0"
   }
 }
