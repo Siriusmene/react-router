@@ -13,7 +13,7 @@
   "dependencies": {
     "@react-router/cloudflare": "workspace:*",
     "isbot": "^4.1.0",
-    "miniflare": "^3.20250214.0",
+    "miniflare": "^4.20250712.0",
     "react": "catalog:",
     "react-dom": "catalog:",
     "react-router": "workspace:*"
