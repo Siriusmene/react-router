@@ -91,7 +91,7 @@
     "typedoc": "^0.28.19",
     "typescript": "catalog:",
     "vite": "^7.0.0",
-    "vitest": "^4.1.7"
+    "vitest": "^4.1.8"
   },
   "engines": {
     "node": ">=22.22.0"
